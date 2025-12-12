@@ -5,8 +5,8 @@ import { fileURLToPath } from 'url';
 
 global.botnumber = '';
 global.confirmCode = '';
-global.nomebot = '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭';
-global.packname = '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭';
+global.nomebot = 'snakebot';
+global.packname = 'snakebot';
 global.author = '𝐌𝐝';
 global.vs = '8.4';
 global.collab = 'Demon Slayer';
@@ -16,7 +16,7 @@ global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 global.owner = [
   ['393291323692', '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲', true],
-  ['xxxxxxxxxx'], //mettete il vostro numero al posto delle x e copiate sopra il formato dopo ovvero 'nome', true
+  ['393291772571'], //mettete il vostro numero al posto delle x e copiate sopra il formato dopo ovvero 'nome', true
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
